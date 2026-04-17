@@ -1,4 +1,4 @@
-# Gekko---Gaming-Equipments
+# Gekko - Gaming-Equipments
 Most gaming gear brands talk to one type of person. The one who already knows what polling rate means, what switches they prefer, and exactly why they need 7200 DPI over 3600.
 Everyone else gets left behind.
 Gekko is built for the person who just got into gaming and doesn't know where to start. For the casual player who wants something premium but can't tell good design from marketing noise. For the first-time PC builder who's tired of opening twelve tabs just to feel slightly less confused.
