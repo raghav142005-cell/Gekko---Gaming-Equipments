@@ -74,11 +74,13 @@ immediately understand what a product is for.
 
 ## Prototype
 
-View interactive prototype →(#https://www.figma.com/design/nydEkTojviEXlpD0Kzogk1/Project-Gekko?node-id=530-980&t=kngnHU8jKyYwTFi3-1) 
+🔗 View Figma Design File→(#https://www.figma.com/design/nydEkTojviEXlpD0Kzogk1/Project-Gekko?node-id=530-980&t=kngnHU8jKyYwTFi3-1) 
+
+🔗 View Interactive Prototype-(#https://www.figma.com/proto/nydEkTojviEXlpD0Kzogk1/Project-Gekko?page-id=530%3A980&node-id=530-1626&viewport=4911%2C254%2C0.42&t=gqyC48GdBO4YxRyH-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1081%3A928
 
 ---
 
-## Case study
+## 📄 Case study
 
 Full case study with research docs, insights, and process:
 View on Behance →(#https://www.behance.net/gallery/247376719/Gekko-Gaming-Equipments-%28Mobile-App%29) 
@@ -89,9 +91,3 @@ View on Behance →(#https://www.behance.net/gallery/247376719/Gekko-Gaming-Equi
 
 Raghavendra Agarwal
 jordonshree13@gmail.com
-
-🔗 Figma Prototype
-View Interactive Prototype - (https://www.figma.com/design/nydEkTojviEXlpD0Kzogk1/Project-Gekko?node-id=530-980&t=kngnHU8jKyYwTFi3-1)
-
-📄 Case Study
-https://www.behance.net/gallery/247376719/Gekko-Gaming-Equipments-%28Mobile-App%29
