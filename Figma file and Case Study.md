@@ -1,8 +1,5 @@
 # Gekko — UX Design Project
 **Figma File | Hi-Fi Prototype | Google UX Design Certificate**
-![screen](<img width="440" height="956" alt="Welcome Screen" src="https://github.com/user-attachments/assets/fa3308ce-f94f-443c-b411-c2970c9463a9" />)
-
-![screen](image.png)
 
 ---
 
